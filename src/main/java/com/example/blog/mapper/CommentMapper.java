@@ -10,5 +10,3 @@ public interface CommentMapper {
 
     Comment toEntity(CreateCommentRequest request);
 }
-
-
